@@ -1,9 +1,7 @@
-/*
 Staircase
 =========
 Build a staircase with colors dividing them in half,
 odd numbers will result in the lower colored half having the extra stair.
-*/
 
 
 package com.egarduno.staircase;
